@@ -3,6 +3,7 @@ from PyQt5.QtCore import QSize, Qt
 import ojogo
 
 
+# Daqui pra baixo começa o show de horrores rsrs.
 class MainWindow(QMainWindow):
     # Override class constructor
     def __init__(self):
